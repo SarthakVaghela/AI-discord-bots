@@ -14,4 +14,4 @@ In detail explanation:
 -then it uses an third party application to covert that video into MP3 file
 -and it outputs the file as a song in voice chat
 -this all happens without opening anything at all except discord
--memory efficient and so convenient
+-memory efficient and so convenient 
