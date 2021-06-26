@@ -3,8 +3,8 @@ import requests
 import discord
 from output import *
 
-confidentialBotID = 'ODI2MTMzNDUwNTE1OTM5MzM4.YGICuw.DQ-H6hYwD_WRZJlupQ-IdrhhPxM'
-confidential_api_key = '036142134bd11a24c5f4b92c3fd8517f'
+confidentialBotID = 'KEY'
+confidential_api_key = 'APIKEY'
 clt = discord.Client()    #clt is our client, in this case its Discord
 command = 'R.'
 
